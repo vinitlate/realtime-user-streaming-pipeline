@@ -6,7 +6,7 @@ This project is a **real-time data streaming pipeline** built using Apache Kafka
 
 ## 📌 Architecture Overview
 
-![Architecture Diagram](https://github.com/vinitlate/realtime-user-streaming-pipeline/blob/main/Pipeline_Architecture.png)
+![Architecture Diagram](Pipeline_Architecture.png)
 
 ### 🔁 Flow
 
